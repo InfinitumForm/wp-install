@@ -80,7 +80,7 @@ ADMIN_PASSWORD=''
 # Administrator e-mail
 ADMIN_EMAIL=''
 # Install plugins
-INSTALL_PLUGINS=''
+INSTALL_PLUGINS='wordpress-seo contact-form-7 wordfence classic-editor'
 # Install themes
 INSTALL_THEMES=''
 
